@@ -1,4 +1,3 @@
-@@ -1,45 +1,144 @@
 # Convolutional Deep Neural Network for Digit Classification
 ### EXP NO: 03
 
